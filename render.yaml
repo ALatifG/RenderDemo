@@ -2,7 +2,7 @@ databases:
   - name: mysitedb
     plan: free
     databaseName: mysite
-    user: mysite
+    user: abdullatif
 
 services:
   - type: web
